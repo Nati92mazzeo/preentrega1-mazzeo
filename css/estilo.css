@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Advertencia & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Baile+Script & display=swap');
+body{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: white;
+}
+
+h1{
+   margin-top: 250px;
+    color: black;
+    font-family:'Advertencia', cursiva;
+    font-size: 50px;
+    text-align: center;
+    border-top: #FF66C4 solid 3px;
+    padding-top: 4px;
+    text-decoration: dashed;
+}
+
+button{
+   margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FF66C4;
+    padding: 15px;
+    font-family: 'Advertencia', cursiva;
+    font-size: 15x;
+    overflow: hidden;
+}
+
+
+.animacion{
+    overflow: hidden;
+}
+
+
